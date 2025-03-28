@@ -12,4 +12,4 @@
 
 ## Справочник
 
-...
+[Reference API](https://api.documentat.io/editor/)
