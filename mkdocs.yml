@@ -1,0 +1,7 @@
+site_name: MkDocs Test Docs
+site_description: Тестируем MkDocs самостоятельно через GitHub Pages
+theme: material
+
+nav:
+  - Home: index.md
+  - About: about.md
